@@ -1,0 +1,10 @@
+name: NJCrashReport
+title:
+account: uncrash
+server: shinyapps.io
+appId: 130112
+bundleId: 743647
+url: https://uncrash.shinyapps.io/NJCrashReport/
+when: 1489334319.82788
+asMultiple: FALSE
+asStatic: FALSE
